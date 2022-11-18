@@ -1,6 +1,6 @@
 mgmt ip: 10.0.0.1
 vlans:
-  red:
+  black:
     id: 10
   blue:
    id: 20
