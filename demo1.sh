@@ -4,3 +4,4 @@ df -h
 
 echo "***********display today date************"
 date
+
